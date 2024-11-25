@@ -1,0 +1,60 @@
+.C1{
+    background-color: black;
+    color: White;
+}
+.C2{
+    background: rgb(17,7,32);
+    background: linear-gradient(143deg, rgba(17,7,32,1) 0%, rgba(47,115,88,1) 55%, rgba(31,37,79,1) 100%);
+}
+
+nav{
+    padding-top:5px;
+}
+.accordion{
+    display: flex;
+}
+
+#P1{
+    padding-top: 79px;
+    float: inline-end;
+    color: antiquewhite;
+}
+
+.I1{
+    width: 200px;
+    padding: 1px;
+    margin-left: 250px;
+}
+.I2{
+    border: solid;
+    border-radius: 50%;
+    margin-left: 43px;
+    padding: 10px;
+    width: 262px;
+}
+.S1{
+    display: flex;
+    justify-content: center;
+}
+
+.R1{
+    padding-top: 200px;
+}
+.P1{
+    padding-top: 200px;
+}
+
+#logo{
+    padding-left: 22px;
+}
+
+.accordion .accordion-item {
+    flex: 1;
+}
+
+.btn:hover {
+    background-color: #5cb85c;
+    color: white;
+}
+
+
